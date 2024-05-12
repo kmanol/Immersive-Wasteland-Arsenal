@@ -32,13 +32,13 @@ try
 
         geckScript.Add($"\t\tElseIf fNameDefault == 1");
         if (!string.IsNullOrEmpty(weapon?.Immersive))
-            geckScript.Add($"\t\t\tSetName \"{weapon.Immersive.Replace("\"","\\\"")}\" {weapon.EditorID}");
+            geckScript.Add($"\t\t\tSetName \"{weapon.Immersive.Replace("\"","%q")}\" {weapon.EditorID}");
         else
             geckScript.Add($"\t\t\t;{weapon?.Vanilla}");
 
         geckScript.Add($"\t\tElseIf fNameDefault == 2");
         if (!string.IsNullOrEmpty(weapon?.Descriptive))
-            geckScript.Add($"\t\t\tSetName \"{weapon.Descriptive.Replace("\"", "\\\"")}\" {weapon.EditorID}");
+            geckScript.Add($"\t\t\tSetName \"{weapon.Descriptive.Replace("\"", "%q")}\" {weapon.EditorID}");
         else
             geckScript.Add($"\t\t\t;{weapon?.Vanilla}");
 
