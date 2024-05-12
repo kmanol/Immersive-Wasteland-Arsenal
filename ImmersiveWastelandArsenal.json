@@ -1,0 +1,1544 @@
+[
+{
+  "Editor ID": "WeapNV357Revolver",
+  "Vanilla": ".357 Magnum Revolver",
+  "Immersive": "Antique Cowboy Revolver",
+  "Descriptive": ".357 Magnum Cowboy Revolver"
+},
+{
+  "Editor ID": "WeapNV357RevolverUnique",
+  "Vanilla": "Lucky",
+  "Immersive": "\"Lucky\" Cowboy Revolver",
+  "Descriptive": ".357 Magnum \"Lucky\" Revolver"
+},
+{
+  "Editor ID": "WeapNV44Revolver",
+  "Vanilla": ".44 Magnum Revolver",
+  "Immersive": "Pre-War Civilian Revolver",
+  "Descriptive": ".44 Magnum Revolver"
+},
+{
+  "Editor ID": "WeapNV44RevolverUnique",
+  "Vanilla": "Mysterious Magnum",
+  "Immersive": "\"Mysterious Magnum\" Revolver",
+  "Descriptive": ".44 Magnum \"Mysterious\" Revolver"
+},
+{
+  "Editor ID": "NVDLC02Weap45AutoPistol",
+  "Vanilla": ".45 Auto Pistol",
+  "Immersive": "Old Service Pistol",
+  "Descriptive": ".45 Auto Pistol"
+},
+{
+  "Editor ID": "NVDLC02Weap45AutoPistolUnique",
+  "Vanilla": "A Light Shining In Darkness",
+  "Immersive": "\"A Light Shining in Darkness\" Service Pistol",
+  "Descriptive": ".45 Auto \"A Light Shining in Darkness\" Pistol"
+},
+{
+  "Editor ID": "NVDLC05WeapNV556mmPistolCustom",
+  "Vanilla": "5.56mm Pistol (GRA)",
+  "Immersive": "Post-War Civilian Pistol",
+  "Descriptive": "5.56mm Pistol"
+},
+{
+  "Editor ID": "WeapNVThatGun",
+  "Vanilla": "That Gun",
+  "Immersive": "\"That Gun\" Civilian Pistol",
+  "Descriptive": "5.56mm \"That Gun\" Pistol"
+},
+{
+  "Editor ID": "WeapNV9mmPistol",
+  "Vanilla": "9mm Pistol",
+  "Immersive": "NCR Service Pistol",
+  "Descriptive": "9mm Pistol"
+},
+{
+  "Editor ID": "WeapNV9mmPistolUnique",
+  "Vanilla": "Maria",
+  "Immersive": "\"Maria\" Service Pistol",
+  "Descriptive": "9mm \"Maria\" Pistol"
+},
+{
+  "Editor ID": "Weap10mmPistol",
+  "Vanilla": "10mm Pistol",
+  "Immersive": "Pre-War Service Pistol",
+  "Descriptive": "10mm Service Pistol"
+},
+{
+  "Editor ID": "WeapPreord10mmPistol",
+  "Vanilla": "Weathered 10mm Pistol",
+  "Immersive": "Pre-War Officer Pistol",
+  "Descriptive": "10mm Officer Pistol"
+},
+{
+  "Editor ID": "WeapNV127mmPistol",
+  "Vanilla": "12.7mm Pistol",
+  "Immersive": "Pre-War Foreign Pistol",
+  "Descriptive": "12.7mm Pistol"
+},
+{
+  "Editor ID": "NVDLC05WeapNV127mmPistolUnique",
+  "Vanilla": "Li'l Devil (GRA)",
+  "Immersive": "\"Li'l Devil\" Foreign Pistol",
+  "Descriptive": "12.7mm \"Li'l Devil\" Pistol"
+},
+{
+  "Editor ID": "WeapNVHuntingRevolver",
+  "Vanilla": "Hunting Revolver",
+  "Immersive": "Pre-War Hunting Revolver",
+  "Descriptive": ".45-70 Gov't Revolver"
+},
+{
+  "Editor ID": "NVDLC05WeapNVHuntingRevolverCustom",
+  "Vanilla": "Hunting Revolver (GRA)",
+  "Immersive": "Reproduction Hunting Revolver",
+  "Descriptive": ".45-70 Gov't Reproduction Revolver"
+},
+{
+  "Editor ID": "WeapNVRangerSequoia",
+  "Vanilla": "Ranger Sequoia",
+  "Immersive": "Ranger Sequoia Revolver",
+  "Descriptive": ".45-70 Gov't Ranger Sequoia Revolver"
+},
+{
+  "Editor ID": "NVDLC01WeapPolicePistol",
+  "Vanilla": "Police Pistol",
+  "Immersive": "Antique Police Revolver",
+  "Descriptive": ".357 Magnum Police Revolver"
+},
+{
+  "Editor ID": "WeapNVSilenced22Pistol",
+  "Vanilla": "Silenced .22 Pistol",
+  "Immersive": "Pre-War Survivalist Pistol",
+  "Descriptive": ".22 Silenced Pistol"
+},
+{
+  "Editor ID": "WeapNVAntiMaterielRifle",
+  "Vanilla": "Anti-Materiel Rifle",
+  "Immersive": "Pre-War Anti-Materiel Rifle",
+  "Descriptive": ".50 Bolt-Action Rifle"
+},
+{
+  "Editor ID": "NVDLC05WeapNVAntiMaterielRifleCustom",
+  "Vanilla": "Anti-Materiel Rifle (GRA)",
+  "Immersive": "Reproduction Anti-Materiel Rifle",
+  "Descriptive": ".50 Reproduction Bolt-Action Rifle"
+},
+{
+  "Editor ID": "WeapNVAssaultCarbine",
+  "Vanilla": "Assault Carbine",
+  "Immersive": "Pre-War Assault Carbine",
+  "Descriptive": "5mm Assault Carbine"
+},
+{
+  "Editor ID": "NVDLC05WeapNVAssaultCarbineCustom",
+  "Vanilla": "Assault Carbine (GRA)",
+  "Immersive": "Reproduction Assault Carbine",
+  "Descriptive": "5mm Reproduction Assault Carbine"
+},
+{
+  "Editor ID": "NVDLC01WeapAutomaticRifle",
+  "Vanilla": "Automatic Rifle",
+  "Immersive": "Old Automatic Rifle",
+  "Descriptive": ".308 Automatic Rifle"
+},
+{
+  "Editor ID": "NVDLC05WeapNVBattleRifleCustom",
+  "Vanilla": "Battle Rifle (GRA)",
+  "Immersive": "Reproduction Battle Rifle",
+  "Descriptive": ".308 Reproduction Battle Rifle"
+},
+{
+  "Editor ID": "WeapNVBattleRifleUnique",
+  "Vanilla": "This Machine",
+  "Immersive": "\"This Machine\" Battle Rifle",
+  "Descriptive": ".308 \"This Machine\" Battle Rifle"
+},
+{
+  "Editor ID": "WeapNVBBGun",
+  "Vanilla": "BB Gun",
+  "Immersive": "BB Gun",
+  "Descriptive": "BB Gun"
+},
+{
+  "Editor ID": "WeapNVBBGunUnique",
+  "Vanilla": "Abilene Kid LE BB Gun",
+  "Immersive": "\"Abilene Kid LE\" BB Gun",
+  "Descriptive": "\"Abilene Kid LE\" BB Gun"
+},
+{
+  "Editor ID": "WeapNVBrushGun",
+  "Vanilla": "Brush Gun",
+  "Immersive": "Antique Brush Gun",
+  "Descriptive": ".45-70 Gov't Lever-Action Rifle"
+},
+{
+  "Editor ID": "NVDLC05WeapNVBrushGunUnique",
+  "Vanilla": "Medicine Stick (GRA)",
+  "Immersive": "\"Medicine Stick\" Brush Gun",
+  "Descriptive": ".45-70 Gov't \"Medicine Stick\" Lever-Action Rifle"
+},
+{
+  "Editor ID": "WeapNVCowboyRepeater",
+  "Vanilla": "Cowboy Repeater",
+  "Immersive": "Antique Lever-Action Rifle",
+  "Descriptive": ".357 Magnum Lever-Action Rifle"
+},
+{
+  "Editor ID": "WeapNVCowboyRepeaterUnique",
+  "Vanilla": "La Longue Carabine",
+  "Immersive": "\"La Longue Carabine\" Lever-Action Rifle",
+  "Descriptive": ".357 Magnum \"La Longue Carabine\" Lever-Action Rifle"
+},
+{
+  "Editor ID": "WeapHuntingRifle",
+  "Vanilla": "Hunting Rifle",
+  "Immersive": "Pre-War Hunting Rifle",
+  "Descriptive": ".308 Bolt-Action Rifle"
+},
+{
+  "Editor ID": "NVDLC05WeapHuntingRifleUnique",
+  "Vanilla": "Paciencia (GRA)",
+  "Immersive": "\"Paciencia\" Hunting Rifle",
+  "Descriptive": ".308 \"Paciencia\" Bolt-Action Rifle"
+},
+{
+  "Editor ID": "WeapNVLightMachineGun",
+  "Vanilla": "Light Machine Gun",
+  "Immersive": "Pre-War Light Machine Gun",
+  "Descriptive": "5.56mm Light Machine Gun"
+},
+{
+  "Editor ID": "NVDLC05WeapNVLightMachineGunUnique",
+  "Vanilla": "Bozar (GRA)",
+  "Immersive": "\"Bozar\" Light Machine Gun",
+  "Descriptive": "5.56mm \"Bozar\" Light Machine Gun"
+},
+{
+  "Editor ID": "WeapNVMarksmanCarbine",
+  "Vanilla": "Marksman Carbine",
+  "Immersive": "Pre-War Marksman Carbine",
+  "Descriptive": "5.56mm Marksman Carbine"
+},
+{
+  "Editor ID": "WeapNVMarksmanCarbineUnique",
+  "Vanilla": "All-American",
+  "Immersive": "\"All-American\" Marksman Carbine",
+  "Descriptive": "5.56mm \"All-American\" Marksman Carbine"
+},
+{
+  "Editor ID": "WeapNVServiceRifle",
+  "Vanilla": "Service Rifle",
+  "Immersive": "NCR Service Rifle",
+  "Descriptive": "5.65mm Service Rifle"
+},
+{
+  "Editor ID": "NVDLC02WeapServiceRifleUnique",
+  "Vanilla": "Survivalist's Rifle",
+  "Immersive": "Pre-War Checkpoint Carbine",
+  "Descriptive": "12.7mm Checkpoint Carbine"
+},
+{
+  "Editor ID": "WeapSniperRifle",
+  "Vanilla": "Sniper Rifle",
+  "Immersive": "Pre-War Sniper Rifle",
+  "Descriptive": ".308 Sniper Rifle"
+},
+{
+  "Editor ID": "NVDLC03WeapSniperRifleUniqueChristine",
+  "Vanilla": "Christine's CoS Silencer Rifle",
+  "Immersive": "Christine's CoS Silencer Rifle",
+  "Descriptive": ".308 \"CoS\" Silencer Rifle"
+},
+{
+  "Editor ID": "WeapNVSniperRifleUnique",
+  "Vanilla": "Gobi Campaign Scout Rifle",
+  "Immersive": "Gobi Campaign Scout Rifle",
+  "Descriptive": ".308 \"Gobi Campaign\" Scout Rifle"
+},
+{
+  "Editor ID": "NVTrailCarbineSteel",
+  "Vanilla": "Trail Carbine",
+  "Immersive": "Pre-War Lever-Action Rifle",
+  "Descriptive": ".44 Magnum Lever-Action Rifle"
+},
+{
+  "Editor ID": "WeapNVVarmintRifle",
+  "Vanilla": "Varmint Rifle",
+  "Immersive": "Pre-War Survivalist Rifle",
+  "Descriptive": "5.56mm Survivalist Rifle"
+},
+{
+  "Editor ID": "WeapNVVarmintRifleUnique",
+  "Vanilla": "Ratslayer",
+  "Immersive": "\"Ratslayer\" Survivalist Rifle",
+  "Descriptive": "5.56mm \"Ratslayer\" Survivalist Rifle"
+},
+{
+  "Editor ID": "NVDLC02Weap45AutoSubmachineGun",
+  "Vanilla": ".45 Auto SMG",
+  "Immersive": "Old Premium Submachine Gun",
+  "Descriptive": ".45 Auto Submachine Gun"
+},
+{
+  "Editor ID": "WeapNV9mmSubmachineGun",
+  "Vanilla": "9mm Submachine Gun",
+  "Immersive": "Old Budget Submachine Gun",
+  "Descriptive": "9mm Submachine Gun"
+},
+{
+  "Editor ID": "WeapNV9mmSubmachineGunUnique",
+  "Vanilla": "Vance's 9mm Submachine Gun",
+  "Immersive": "Vance's Budget Submachine Gun",
+  "Descriptive": "9mm \"Infamous\" Submachine Gun"
+},
+{
+  "Editor ID": "Weap10mmSubmachineGun",
+  "Vanilla": "10mm Submachine Gun",
+  "Immersive": "Pre-War Submachine Gun",
+  "Descriptive": "10mm Submachine Gun"
+},
+{
+  "Editor ID": "NVDLC05Weap10mmSubmachineGunUnique",
+  "Vanilla": "Sleepytyme (GRA)",
+  "Immersive": "\"Sleepytyme\" Submachine Gun",
+  "Descriptive": "10mm \"Sleepytyme\" Submachine Gun"
+},
+{
+  "Editor ID": "WeapNV127mmSubmachineGun",
+  "Vanilla": "12.7mm Submachine Gun",
+  "Immersive": "Pre-War Foreign Submachine Gun",
+  "Descriptive": "12.7mm Submachine Gun"
+},
+{
+  "Editor ID": "NVDLC05WeapNV127mmSubmachineGunCustom",
+  "Vanilla": "12.7mm Submachine Gun (GRA)",
+  "Immersive": "Reproduction Foreign Submachine Gun",
+  "Descriptive": "12.7mm Reproduction Submachine Gun"
+},
+{
+  "Editor ID": "NVDLC04WeapNailGun",
+  "Vanilla": "H&H Tools Nail Gun",
+  "Immersive": "H&H Tools Nail Gun",
+  "Descriptive": "Nail Gun"
+},
+{
+  "Editor ID": "WeapNVSilenced22SMG",
+  "Vanilla": "Silenced .22 SMG",
+  "Immersive": "Pre-War Police Submachine Gun",
+  "Descriptive": ".22 Silenced Submachine Gun"
+},
+{
+  "Editor ID": "WeapNVCaravanShotgun",
+  "Vanilla": "Caravan Shotgun",
+  "Immersive": "Antique O/U Shotgun",
+  "Descriptive": "20 Gauge O/U Shotgun"
+},
+{
+  "Editor ID": "WeapPreordCaravanShotgun",
+  "Vanilla": "Sturdy Caravan Shotgun",
+  "Immersive": "Antique Engraved O/U Shotgun",
+  "Descriptive": "20 Gauge Engraved O/U Shotgun"
+},
+{
+  "Editor ID": "WeapNVHuntingShotgun",
+  "Vanilla": "Hunting Shotgun",
+  "Immersive": "Pre-War Hunting Shotgun",
+  "Descriptive": "12 Gauge Pump-Action Shotgun"
+},
+{
+  "Editor ID": "WeapNVHuntingShotgunUnique",
+  "Vanilla": "Dinner Bel",
+  "Immersive": "\"Dinner Bel\" Hunting Shotgun",
+  "Descriptive": "12 Gauge \"Dinner Bel\" Pump-Action Shotgun"
+},
+{
+  "Editor ID": "WeapNVLeverActionShotgun",
+  "Vanilla": "Lever-Action shotgun",
+  "Immersive": "Antique Lever-Action Shotgun",
+  "Descriptive": "20 Gauge Lever-Action Shotgun"
+},
+{
+  "Editor ID": "WeapNVRiotShotgun",
+  "Vanilla": "Riot Shotgun",
+  "Immersive": "Pre-War Police Shotgun",
+  "Descriptive": "12 Gauge Sem-Automatic Shotgun"
+},
+{
+  "Editor ID": "WeaponShotgunSawedOff",
+  "Vanilla": "Sawed-Off Shotgun",
+  "Immersive": "Old Sawed-Off SxS Shotgun",
+  "Descriptive": "12 Gauge Sawed-Off SxS Shotgun"
+},
+{
+  "Editor ID": "WeapShotgunSawedOffUnique",
+  "Vanilla": "Big Boomer",
+  "Immersive": "\"Big Boomer\" Sawed-Off SxS Shotgun",
+  "Descriptive": "12 Gauge \"Big Boomer\" Sawed-Off SxS Shotgun"
+},
+{
+  "Editor ID": "WeapNVSingleShotgun",
+  "Vanilla": "Single Shotgun",
+  "Immersive": "Antique Single Shot Shotgun",
+  "Descriptive": "20 Gauge Single Shot Shotgun"
+},
+{
+  "Editor ID": "NVDLC03WeapCyberdogGun",
+  "Vanilla": "K9000 Cyberdog Gun",
+  "Immersive": "K9000 Cyberdog Gun",
+  "Descriptive": ".357 Magnum Cyberdog Gun"
+},
+{
+  "Editor ID": "NVDLC03WeapCyberdogGunFido",
+  "Vanilla": "FIDO",
+  "Immersive": "\"FIDO\" K9000 Cyberdog Gun",
+  "Descriptive": ".44 Magnum \"FIDO\" Cyberdog Gun"
+},
+{
+  "Editor ID": "WeapMinigun",
+  "Vanilla": "Minigun",
+  "Immersive": "Pre-War Personal Minigun",
+  "Descriptive": "5mm Personal Minigun"
+},
+{
+  "Editor ID": "WeapNVMinigunUnique",
+  "Vanilla": "CZ57 Avenger",
+  "Immersive": "\"CZ57 Avenger\" Personal Minigun",
+  "Descriptive": "5mm \"CZ57 Avenger\" Personal Minigun"
+},
+{
+  "Editor ID": "NVDLC04WeapSMMG",
+  "Vanilla": "Shoulder Mounted Machine Gun",
+  "Immersive": "Pre-War Heavy Machine Gun",
+  "Descriptive": "10mm Shoulder-Mounted Machine Gun"
+},
+{
+  "Editor ID": "WeapAlienBlaster",
+  "Vanilla": "Alien Blaster",
+  "Immersive": "Alien Blaster",
+  "Descriptive": "Alien Blaster"
+},
+{
+  "Editor ID": "WeapNVEuclidsCFinder",
+  "Vanilla": "Euclid's C-Finder",
+  "Immersive": "Euclid's C-Finder",
+  "Descriptive": "Euclid's C-Finder"
+},
+{
+  "Editor ID": "NVDLC04weapflaregun",
+  "Vanilla": "Flare Gun",
+  "Immersive": "Flare Gun",
+  "Descriptive": "Flare Gun"
+},
+{
+  "Editor ID": "WeapLaserPistol",
+  "Vanilla": "Laser Pistol",
+  "Immersive": "Pre-War Laser Pistol",
+  "Descriptive": "Laser Pistol"
+},
+{
+  "Editor ID": "NVDLC05WeapLaserPistolCustom",
+  "Vanilla": "Laser Pistol (GRA)",
+  "Immersive": "Reproduction Laser Pistol",
+  "Descriptive": "Reproduction Laser Pistol"
+},
+{
+  "Editor ID": "NVDLC02WeapComplianceRegulator",
+  "Vanilla": "Compliance Regulator",
+  "Immersive": "\"Compliance Regulator\" Laser Pistol",
+  "Descriptive": "\"Compliance Regulator\" Laser Pistol"
+},
+{
+  "Editor ID": "WeapNVLaserPistolUnique",
+  "Vanilla": "Pew Pew",
+  "Immersive": "\"Pew Pew\" Laser Pistol",
+  "Descriptive": "\"Pew Pew\" Laser Pistol"
+},
+{
+  "Editor ID": "WeapNVPlasmaDefender",
+  "Vanilla": "Plasma Defender",
+  "Immersive": "Pre-War Foreign Plasma Pistol",
+  "Descriptive": "Foreign Plasma Pistol"
+},
+{
+  "Editor ID": "NVDLC05WeapNVPlasmaDefenderCustom",
+  "Vanilla": "Plasma Defender (GRA)",
+  "Immersive": "Reproduction Foreign Plasma Pistol",
+  "Descriptive": "Reproduction Foregin Plasma Pistol"
+},
+{
+  "Editor ID": "WeapPlasmaPistol",
+  "Vanilla": "Plasma Pistol",
+  "Immersive": "Pre-War Plasma Pistol",
+  "Descriptive": "Plasma Pistol"
+},
+{
+  "Editor ID": "NVDLC05WeapPlasmaPistolCustom",
+  "Vanilla": "Plasma Pistol (GRA)",
+  "Immersive": "Reproduction Plasma Pistol",
+  "Descriptive": "Reproduction Plasma Pistol"
+},
+{
+  "Editor ID": "WeapNVPulseGun",
+  "Vanilla": "Pulse Gun",
+  "Immersive": "Pre-War Pulse Gun",
+  "Descriptive": "Pulse Gun"
+},
+{
+  "Editor ID": "WeapNVRechargerPistol",
+  "Vanilla": "Recharger Pistol",
+  "Immersive": "Pre-War Recharger Pistol",
+  "Descriptive": "Recharger Pistol"
+},
+{
+  "Editor ID": "NVDLC05WeapNVRechargerPistolUnique",
+  "Vanilla": "MF Hyperbreeder Alpha (GRA)",
+  "Immersive": "\"MF Hyperbreeder Alpha\" Recharger Pistol",
+  "Descriptive": "\"MF Hyperbreeder Alpha\" Prototype Recharger Pistol"
+},
+{
+  "Editor ID": "NVDLC03WeapSonicGunGabrielsBark",
+  "Vanilla": "Sonic Emitter - Gabriel's Bark",
+  "Immersive": "\"Gabriel's Bark\" Sonic Emitter",
+  "Descriptive": "\"Gabriel's Bark\" Sonic Emitter"
+},
+{
+  "Editor ID": "NVDLC03WeapSonicGunOperaSinger",
+  "Vanilla": "Sonic Emitter - Opera Singer",
+  "Immersive": "\"Opera Singer\" Sonic Emitter",
+  "Descriptive": "\"Opera Singer\" Sonic Emitter"
+},
+{
+  "Editor ID": "NVDLC03WeapSonicGunRevelation",
+  "Vanilla": "Sonic Emitter - Revelation",
+  "Immersive": "\"Revelation\" Sonic Emitter",
+  "Descriptive": "\"Revelation\" Sonic Emitter"
+},
+{
+  "Editor ID": "NVDLC03WeapSonicGunRoboScorpion",
+  "Vanilla": "Sonic Emitter - Robo-Scorpion",
+  "Immersive": "\"Robo-Scorpion\" Sonic Emitter",
+  "Descriptive": "\"Robo-Scorpion\" Sonic Emitter"
+},
+{
+  "Editor ID": "NVDLC03WeapSonicGunTarantula",
+  "Vanilla": "Sonic Emitter - Tarantula",
+  "Immersive": "\"Tarantula\" Sonic Emitter",
+  "Descriptive": "\"Tarantula\" Sonic Emitter"
+},
+{
+  "Editor ID": "WeapNVGaussRifle",
+  "Vanilla": "Gauss Rifle",
+  "Immersive": "Pre-War Gauss Rifle",
+  "Descriptive": "Gauss Rifle"
+},
+{
+  "Editor ID": "WeapNVGaussRifleUnique",
+  "Vanilla": "YCS/186",
+  "Immersive": "\"YCS/186\" Prototype Gauss Rifle",
+  "Descriptive": "\"YCS/186\" Prototype Gauss Rifle"
+},
+{
+  "Editor ID": "NVDLC01WeapHolorifle",
+  "Vanilla": "Holorifle",
+  "Immersive": "Prototype Holo-Rifle",
+  "Descriptive": "Holo-Rifle"
+},
+{
+  "Editor ID": "NVDLC03WeapLaer",
+  "Vanilla": "LAER",
+  "Immersive": "Post-War LAER",
+  "Descriptive": "LAER"
+},
+{
+  "Editor ID": "NVDLC03WeapLaerUniqueElijah",
+  "Vanilla": "Elijah's Advanced LAER",
+  "Immersive": "Elijah's Prototype LAER",
+  "Descriptive": "Prototype LAER"
+},
+{
+  "Editor ID": "WeapNVLaserRCW",
+  "Vanilla": "Laser RCW",
+  "Immersive": "Pre-War Laser RCW",
+  "Descriptive": "Laser RCW"
+},
+{
+  "Editor ID": "WeapLaserRifle",
+  "Vanilla": "Laser Rifle",
+  "Immersive": "Pre-War Laser Rifle",
+  "Descriptive": "Laser Rifle"
+},
+{
+  "Editor ID": "WeapLaserRifleUnique",
+  "Vanilla": "AER14 Prototype",
+  "Immersive": "\"AER14\" Prototype Laser Rifle",
+  "Descriptive": "\"AER14\" Prototype Laser Rifle"
+},
+{
+  "Editor ID": "WeapNVMultiPlasRifle",
+  "Vanilla": "Multiplas Rifle",
+  "Immersive": "Pre-War Multiplas Rifle",
+  "Descriptive": "Multiplas Rifle"
+},
+{
+  "Editor ID": "WeapPlasmaRifle",
+  "Vanilla": "Plasma Rifle",
+  "Immersive": "Pre-War Plasma Rifle",
+  "Descriptive": "Plasma Rifle"
+},
+{
+  "Editor ID": "WeapNVPlasmaRifleUnique",
+  "Vanilla": "Q-35 Matter Modulator",
+  "Immersive": "\"Q-35 Matter Modulator\" Prototype Plasma Rifle",
+  "Descriptive": "\"Q-35 Matter Modulator\" Prototype Plasma Rifle"
+},
+{
+  "Editor ID": "WeapNVRechargerRifle",
+  "Vanilla": "Recharger Rifle",
+  "Immersive": "Pre-War Recharger Rifle",
+  "Descriptive": "Recharger Rifle"
+},
+{
+  "Editor ID": "WeapNVTriBeamLaserRifle",
+  "Vanilla": "Tri-Beam Laser Rifle",
+  "Immersive": "Pre-War Tri-Beam Laser Rifle",
+  "Descriptive": "Tri-Beam Laser Rifle"
+},
+{
+  "Editor ID": "NVDLC05WeapNVTriBeamLaserRifleCustom",
+  "Vanilla": "Tri-Beam Laser Rifle (GRA)",
+  "Immersive": "Reproduction Tri-Beam Laser Rifle",
+  "Descriptive": "Reproduction Tri-Beam Laser Rifle"
+},
+{
+  "Editor ID": "NVDLC04WeapArcWelder",
+  "Vanilla": "Arc Welder",
+  "Immersive": "Pre-War Arc Welder",
+  "Descriptive": "Arc Welder"
+},
+{
+  "Editor ID": "WeapFlamer",
+  "Vanilla": "Flamer",
+  "Immersive": "Pre-War Flamer",
+  "Descriptive": "Flamer"
+},
+{
+  "Editor ID": "NVDLC05WeapFlamerUnique",
+  "Vanilla": "Cleansing Flame (GRA)",
+  "Immersive": "\"Cleansing Flame\" Flamer",
+  "Descriptive": "\"Cleansing Flame\" Flamer"
+},
+{
+  "Editor ID": "WeapGatlingLaser",
+  "Vanilla": "Gatling Laser",
+  "Immersive": "Pre-War Gatling Laser",
+  "Descriptive": "Gatling Laser"
+},
+{
+  "Editor ID": "NVDLC05WeapGatlingLaserUnique",
+  "Vanilla": "Sprtel-Wood 9700 (GRA)",
+  "Immersive": "\"Sprtel-Wood 9700\" Gatling Laser",
+  "Descriptive": "\"Sprtel-Wood 9700\" Gatling Laser"
+},
+{
+  "Editor ID": "WeapHeavyIncinerator",
+  "Vanilla": "Heavy Incinerator",
+  "Immersive": "Pre-War Heavy Incinerator",
+  "Descriptive": "Heavy Incinerator"
+},
+{
+  "Editor ID": "WeapNVIncinerator",
+  "Vanilla": "Incinerator",
+  "Immersive": "Pre-War Incinerator",
+  "Descriptive": "Incinerator"
+},
+{
+  "Editor ID": "WeapNVPlasmaCaster",
+  "Vanilla": "Plasma Caster",
+  "Immersive": "Pre-War Plasma Caster",
+  "Descriptive": "Plasma Caster"
+},
+{
+  "Editor ID": "NVDLC05WeapNVPlasmaCasterUnique",
+  "Vanilla": "The Smitty Special (GRA)",
+  "Immersive": "\"The Smitty Special\" Plasma Caster",
+  "Descriptive": "\"The Smitty Special\" Plasma Caster"
+},
+{
+  "Editor ID": "WeapTeslaCannon",
+  "Vanilla": "Tesla Cannon",
+  "Immersive": "Pre-War Tesla Cannon",
+  "Descriptive": "Shoulder-Mounted Tesla Cannon"
+},
+{
+  "Editor ID": "NVDLC03WeapTeslaCannonUniqueElijah",
+  "Vanilla": "Elijah's Jury-Rigged Tesla Cannon",
+  "Immersive": "Elijah's Jury-Rigged Tesla Cannon",
+  "Descriptive": "Jury-Rigged Shoulder-Mounted Tesla Cannon"
+},
+{
+  "Editor ID": "WeapNVTeslaCannonUnique",
+  "Vanilla": "Tesla-Beaton Prototype",
+  "Immersive": "Prototype Tesla Cannon",
+  "Descriptive": "Prototype Shoulder-Mounted Tesla Cannon"
+},
+{
+  "Editor ID": "NVDLC05Weap25mmGrenadeAPWCustom",
+  "Vanilla": "25mm Grenade APW (GRA)",
+  "Immersive": "Reproduction Grenade APW",
+  "Descriptive": "25mm Reproduction Grenade APW"
+},
+{
+  "Editor ID": "WeapFatman",
+  "Vanilla": "Fat Man",
+  "Immersive": "Pre-War Fat Man",
+  "Descriptive": "Shoulder-Mounted TNW"
+},
+{
+  "Editor ID": "NVDLC05WeapFatmanCustom",
+  "Vanilla": "Fat Man (GRA)",
+  "Immersive": "Reproduction Fat Man",
+  "Descriptive": "Reproduction Shoulder-Mounted TNW"
+},
+{
+  "Editor ID": "NVDLC05WeapFatmanUnique",
+  "Vanilla": "Esther (GRA)",
+  "Immersive": "\"Esther\" Fat Man",
+  "Descriptive": "\"Esther\" Fat Man"
+},
+{
+  "Editor ID": "WeapNVGrenadeMachinegun",
+  "Vanilla": "Grenade Machinegun",
+  "Immersive": "Pre-War Grenade Machine Gun",
+  "Descriptive": "25mm Grenade Machine Gun"
+},
+{
+  "Editor ID": "WeapNVGrenadeMachinegunUnique",
+  "Vanilla": "Mercy",
+  "Immersive": "\"Mercy\" Grenade Machine Gun",
+  "Descriptive": "40mm \"Mercy\" Grenade Machine Gun"
+},
+{
+  "Editor ID": "WeapNVGrenadeLauncher",
+  "Vanilla": "Grenade Launcher",
+  "Immersive": "Pre-War Grenade Launcher",
+  "Descriptive": "40mm Grenade Launcher"
+},
+{
+  "Editor ID": "WeapNVGrenadeRifle",
+  "Vanilla": "Grenade Rifle",
+  "Immersive": "Pre-War Grenade Rifle",
+  "Descriptive": "40mm Grenade Rifle"
+},
+{
+  "Editor ID": "NVDLC04WeapGrenadeRifleBLUE",
+  "Vanilla": "Great Bear Grenade Rifle",
+  "Immersive": "\"Great Bear\" Grenade Rifle",
+  "Descriptive": "40mm \"Great Bear\" Grenade Rifle"
+},
+{
+  "Editor ID": "WeapPreordGrenadeRifle",
+  "Vanilla": "Mercenary's Grenade Rifle",
+  "Immersive": "Pre-War Custom Grenade Rifle",
+  "Descriptive": "40mm Custom Grenade Rifle"
+},
+{
+  "Editor ID": "NVDLC04WeapGrenadeRifleRED",
+  "Vanilla": "Red Victory Grenade Rifle",
+  "Immersive": "\"Red Victory\" Grenade Rifle",
+  "Descriptive": "40mm \"Red Victory\" Grenade Rifle"
+},
+{
+  "Editor ID": "WeapNVGrenadeRifleUnique",
+  "Vanilla": "Thump-Thump",
+  "Immersive": "\"Thump-Thump\" Grenade Rifle",
+  "Descriptive": "40mm \"Thump-Thump\" Grenade Rifle"
+},
+{
+  "Editor ID": "WeapMissileLauncher",
+  "Vanilla": "Missile Launcher",
+  "Immersive": "Pre-War Missile Launcher",
+  "Descriptive": "Shoulder-Mounted Missile Launcher"
+},
+{
+  "Editor ID": "WeapNVMissileLauncherUnique",
+  "Vanilla": "Annabelle",
+  "Immersive": "\"Annabelle\" Missile Launcher",
+  "Descriptive": "\"Annabelle\" Shoulder-Mounted Missile Launcher"
+},
+{
+  "Editor ID": "NVDLC04WeapRedGlare",
+  "Vanilla": "Red Glare",
+  "Immersive": "\"Red Glare\" Rocket Launcher",
+  "Descriptive": "\"Red Glare\" Rocket Launcher"
+},
+{
+  "Editor ID": "WeapNVDynamite",
+  "Vanilla": "Dynamite",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "NVDLC02WeapFireBomb",
+  "Vanilla": "Fire Bomb",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "NVDLC04WeapGrenadeFlashBang",
+  "Vanilla": "Flash Bang",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapGrenadeFrag",
+  "Vanilla": "Frag Grenade",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapNVGrenadeFragHoly",
+  "Vanilla": "Holy Frag Grenade",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapNVGrenadeIncendiary",
+  "Vanilla": "Incendiary Grenade",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapNVLongFuseDynamite",
+  "Vanilla": "Long-Fuse Dynamite",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "NVDLC05WeapGrenadeMFC",
+  "Vanilla": "MFC Grenade (Mad Bomber) (GRA)",
+  "Immersive": "MFC Grenade",
+  "Descriptive": "MFC Grenade"
+},
+{
+  "Editor ID": "NVDLC05WeapGrenadeNuka",
+  "Vanilla": "Nuka-Grenade (Mad Bomber) (GRA)",
+  "Immersive": "Nuka Grenade",
+  "Descriptive": "Nuka Grenade"
+},
+{
+  "Editor ID": "WeapGrenadePlasma",
+  "Vanilla": "Plasma Grenade",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapGrenadePulse",
+  "Vanilla": "Pulse Grenade",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": null,
+  "Vanilla": "Tin Grenade (Mad Bomber) (GRA)",
+  "Immersive": "Tin Grenade",
+  "Descriptive": "Tin Grenade"
+},
+{
+  "Editor ID": "WeapMineBottlecap",
+  "Vanilla": "Bottlecap Mine",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapNVC4PlasticExplosive",
+  "Vanilla": "C-4 Plastic Explosive",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "NVDLC01WeapDemoCharge",
+  "Vanilla": "Demolition Charge",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapNVDetonator",
+  "Vanilla": "Detonator",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "NVDLC05WeapMineFat",
+  "Vanilla": "Fat Mine (Mad Bomber) (GRA)",
+  "Immersive": "Fat Mine",
+  "Descriptive": "Fat Mine"
+},
+{
+  "Editor ID": "WeapMineFrag",
+  "Vanilla": "Frag Mine",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "NVDLC01weapgasbomb",
+  "Vanilla": "Gas Bomb",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": null,
+  "Vanilla": "MFC Cluster (Mad Bomber) (GRA)",
+  "Immersive": "MFC Cluster",
+  "Descriptive": "MFC Cluster"
+},
+{
+  "Editor ID": "WeapMinePlasma",
+  "Vanilla": "Plasma Mine",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapNVMinePowderCharge",
+  "Vanilla": "Powder Charge",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapMinePulse",
+  "Vanilla": "Pulse Mine",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "NVDLC04WeapSatchelCharge",
+  "Vanilla": "Satchel Charge",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapNVTimeBomb",
+  "Vanilla": "Time Bomb",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "NVDLC05WeapNVTimeBombCustom",
+  "Vanilla": "Time Bomb, High Yield (Mad Bomber) (GRA)",
+  "Immersive": "Time Bomb, High Yield",
+  "Descriptive": "Time Bomb, High Yield"
+},
+{
+  "Editor ID": "NVDLC04WeapBowieKnife",
+  "Vanilla": "Bowie Knife",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "NVDLC04WeapBowieKnifeUnique",
+  "Vanilla": "Blood-Nap",
+  "Immersive": "\"Blood-Nap\" Bowie Knife",
+  "Descriptive": "\"Blood-Nap\" Bowie Knife"
+},
+{
+  "Editor ID": "WeapNVBumperSword",
+  "Vanilla": "Bumper Sword",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapNVLegateSword2",
+  "Vanilla": "Blade Of The East",
+  "Immersive": "\"Blade Of The East\" Bumper Sword",
+  "Descriptive": "\"Blade Of The East\" Bumper Sword"
+},
+{
+  "Editor ID": "NVDLC04WeapBladeWest",
+  "Vanilla": "Blade Of The West",
+  "Immersive": "\"Blade Of The West\" Bumper Sword",
+  "Descriptive": "\"Blade Of The West\" Bumper Sword"
+},
+{
+  "Editor ID": "WeapNVChainsaw",
+  "Vanilla": "Chainsaw",
+  "Immersive": "Pre-War Chainsaw",
+  "Descriptive": "Pre-War Chainsaw"
+},
+{
+  "Editor ID": "NVDLC05WeapNVChainsawCustom",
+  "Vanilla": "Chainsaw (GRA)",
+  "Immersive": "Reproduction Chainsaw",
+  "Descriptive": "Reproduction Chainsaw"
+},
+{
+  "Editor ID": "WeapNVCleaver",
+  "Vanilla": "Cleaver",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapNVCleaverUnique",
+  "Vanilla": "Chopper",
+  "Immersive": "\"Chopper\" Cleaver",
+  "Descriptive": "\"Chopper\" Cleaver"
+},
+{
+  "Editor ID": "WeapKnifeCombat",
+  "Vanilla": "Combat Knife",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapNVKnifeCombatUnique",
+  "Vanilla": "Chance's Knife",
+  "Immersive": "Chance's Combat Knife",
+  "Descriptive": "Chance's Combat Knife"
+},
+{
+  "Editor ID": "NVDLC01WeapSpaceAgeKnife",
+  "Vanilla": "Cosmic Knife",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "NVDLC01WeapSpaceAgeKnifeClean",
+  "Vanilla": "Cosmic Knife Clean",
+  "Immersive": "Cosmic Knife, Clean",
+  "Descriptive": "Cosmic Knife, Clean"
+},
+{
+  "Editor ID": "NVDLC01WeapSpaceAgeKnifeHeated",
+  "Vanilla": "Cosmic Knife Super-Heated",
+  "Immersive": "Cosmic Knife, Super-Heated",
+  "Descriptive": "Cosmic Knife, Super-Heated"
+},
+{
+  "Editor ID": "WeapNVFireaxe",
+  "Vanilla": "Fire Axe",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapNVFireaxeUnique",
+  "Vanilla": "Knock-Knock",
+  "Immersive": "\"Knock-Knock\" Fire Axe",
+  "Descriptive": "\"Knock-Knock\" Fire Axe"
+},
+{
+  "Editor ID": "WeapNVHatchet",
+  "Vanilla": "Hatchet",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": null,
+  "Vanilla": "Katana (GRA)",
+  "Immersive": "Reproduction Katana",
+  "Descriptive": "Reproduction Katana"
+},
+{
+  "Editor ID": "WeapKnife",
+  "Vanilla": "Knife",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "NVDLC01WeapKnifeSpear",
+  "Vanilla": "Knife Spear",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "NVDLC01WeapKnifeSpearClean",
+  "Vanilla": "Knife Spear Clean",
+  "Immersive": "Knife Spear, Clean",
+  "Descriptive": "Knife Spear, Clean"
+},
+{
+  "Editor ID": "WeapNVMachete",
+  "Vanilla": "Machete",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapPreordMachete",
+  "Vanilla": "Broad Machete",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapNVMacheteDeadSea",
+  "Vanilla": "Liberator",
+  "Immersive": "\"Liberator\" Machete",
+  "Descriptive": "\"Liberator\" Machete"
+},
+{
+  "Editor ID": "WeapNVMacheteGladius",
+  "Vanilla": "Machete Gladius",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "NVDLC03WeapProtonAxe",
+  "Vanilla": "Proton Axe",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "NVDLC03WeapProtonAxeInversal",
+  "Vanilla": "Protonic Inversal Axe",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapRipper",
+  "Vanilla": "Ripper",
+  "Immersive": "Pre-War Ripper",
+  "Descriptive": "Pre-War Ripper"
+},
+{
+  "Editor ID": "NVDLC05WeapRipperCustom",
+  "Vanilla": "Ripper (GRA)",
+  "Immersive": "Reproduction Ripper",
+  "Descriptive": "Reproduction Ripper"
+},
+{
+  "Editor ID": "WeapShishkebab",
+  "Vanilla": "Shishkebab",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "NVDLC05WeapShishkebabUnique",
+  "Vanilla": "Gehenna (GRA)",
+  "Immersive": "\"Gehenna\" Shishkebab",
+  "Descriptive": "\"Gehenna\" Shishkebab"
+},
+{
+  "Editor ID": "WeapNVStraightRazor",
+  "Vanilla": "Straight Razor",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapNVStraightRazorUnique",
+  "Vanilla": "Figaro",
+  "Immersive": "\"Figaro\" Straight Razor",
+  "Descriptive": "\"Figaro\" Straight Razor"
+},
+{
+  "Editor ID": "WeapSwitchBlade",
+  "Vanilla": "Switchblade",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapThermicLance",
+  "Vanilla": "Thermic Lance",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapNV9iron",
+  "Vanilla": "9 Iron",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapNVDriverUnique",
+  "Vanilla": "Nephi's Golf Driver",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapBaseballBat",
+  "Vanilla": "Baseball Bat",
+  "Immersive": "Pre-War Baseball Bat",
+  "Descriptive": "Pre-War Baseball Bat"
+},
+{
+  "Editor ID": "NVDLC05WeapBaseballBatCustom",
+  "Vanilla": "Baseball Bat (GRA)",
+  "Immersive": "Reproduction Baseball Bat",
+  "Descriptive": "Reproduction Baseball Bat"
+},
+{
+  "Editor ID": "WeapCattleProd",
+  "Vanilla": "Cattle Prod",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapNVDressCane",
+  "Vanilla": "Dress Cane",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapLeadPipe",
+  "Vanilla": "Lead Pipe",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapNVLeadPipeUnique",
+  "Vanilla": "The Humble Cudgel",
+  "Immersive": "\"The Humble Cudgel\" Lead Pipe",
+  "Descriptive": "\"The Humble Cudgel\" Lead Pipe"
+},
+{
+  "Editor ID": "WeapNailBoard",
+  "Vanilla": "Nail Board",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapPoolCue",
+  "Vanilla": "Pool Cue",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "NVDLC04WeapFlagpole",
+  "Vanilla": "Old Glory",
+  "Immersive": "\"Old Glory\" Flagpole",
+  "Descriptive": "\"Old Glory\" Flagpole"
+},
+{
+  "Editor ID": "WeapPoliceBaton",
+  "Vanilla": "Police Baton",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapNVRebarClub",
+  "Vanilla": "Rebar Club",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "NVDLC05WeapNVRebarClubUnique",
+  "Vanilla": "Nuka-Breaker (GRA)",
+  "Immersive": "\"Nuka-Breaker\" Rebar Club",
+  "Descriptive": "\"Nuka-Breaker\" Rebar Club"
+},
+{
+  "Editor ID": "WeapRollingPin",
+  "Vanilla": "Rolling Pin",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapShovel",
+  "Vanilla": "Shovel",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapSledgehammer",
+  "Vanilla": "Sledgehammer",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapSuperSledge",
+  "Vanilla": "Super Sledge",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapSuperSledgeUnique",
+  "Vanilla": "Oh, Baby!",
+  "Immersive": "\"Oh, Baby!\" Super Sledge",
+  "Descriptive": "\"Oh, Baby!\" Super Sledge"
+},
+{
+  "Editor ID": "WeapTireIron",
+  "Vanilla": "Tire Iron",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "NVDLC02WeapWarClub",
+  "Vanilla": "War Club",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "NVDLC03WeapAntenna",
+  "Vanilla": "X-2 Antenna",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "NVDLC03WeapProtonAxeThrown",
+  "Vanilla": "Proton Throwing Axe",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "NVDLC03WeapProtonAxeInversalThrown",
+  "Vanilla": "Protonic Inversal Throwing Axe",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapNVThrowingHatchet",
+  "Vanilla": "Throwing Hatchet",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapNVThrowingKnife",
+  "Vanilla": "Throwing Knife",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "NVDLC01WeapThrowingKnifeSpear",
+  "Vanilla": "Throwing Knife Spear",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapNVThrowingSpear",
+  "Vanilla": "Throwing Spear",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "NVDLC02WeapTomahawk",
+  "Vanilla": "Tomahawk",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapNVBallisticFist",
+  "Vanilla": "Ballistic Fist",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "NVDLC05WeapNVBallisticFistUnique",
+  "Vanilla": "Two-Step Goodbye (GRA)",
+  "Immersive": "\"Two-Step Goodbye\" Ballistic Fist",
+  "Descriptive": "\"Two-Step Goodbye\" Ballistic Fist"
+},
+{
+  "Editor ID": "NVDLC01WeapBearTrapFist",
+  "Vanilla": "Bear Trap Fist",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapBladedGauntlet",
+  "Vanilla": "Bladed Gauntlet",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapBladedGauntletUnique",
+  "Vanilla": "Cram Opener",
+  "Immersive": "\"Cram Opener\" Bladed Gauntlet",
+  "Descriptive": "\"Cram Opener\" Bladed Gauntlet"
+},
+{
+  "Editor ID": "WeapNVBoxingGloves",
+  "Vanilla": "Boxing Gloves",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapNVBoxingGoldenGloves",
+  "Vanilla": "Golden Gloves",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapNVBoxingTape",
+  "Vanilla": "Boxing Tape",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapBrassKnuckles",
+  "Vanilla": "Brass Knuckles",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapNVDisplacerGlove",
+  "Vanilla": "Displacer Glove",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapNVDisplacerGloveUnique",
+  "Vanilla": "Pushy",
+  "Immersive": "\"Pushy\" Displacer Glove",
+  "Descriptive": "\"Pushy\" Displacer Glove"
+},
+{
+  "Editor ID": "WeapNVDogTagFist",
+  "Vanilla": "Dog Tag Fist",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapNVDogTagFistUnique",
+  "Vanilla": "Recompense Of The Fallen",
+  "Immersive": "\"Recompense Of The Fallen\" Dog Tag Fist",
+  "Descriptive": "\"Recompense Of The Fallen\" Dog Tag Fist"
+},
+{
+  "Editor ID": "NVDLC04WeapDeathclawGauntletUnique",
+  "Vanilla": "Fist Of Rawr",
+  "Immersive": "\"Fist Of Rawr\" Deathclaw Gauntlet",
+  "Descriptive": "\"Fist Of Rawr\" Deathclaw Gauntlet"
+},
+{
+  "Editor ID": "NVDLC04WeapIndustrialHand",
+  "Vanilla": "Industrial Hand",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapNVMantisGauntlet",
+  "Vanilla": "Mantis Gauntlet",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "NVDLC05WeapNVMantisGauntletUnique",
+  "Vanilla": "Embrace Of The Mantis King! (GRA)",
+  "Immersive": "\"Embrace Of The Mantis King!\" Mantis Gauntlet",
+  "Descriptive": "\"Embrace Of The Mantis King!\" Mantis Gauntlet"
+},
+{
+  "Editor ID": "WeapPowerFist",
+  "Vanilla": "Power Fist",
+  "Immersive": "Pre-War Power Fist",
+  "Descriptive": "Pre-War Power Fist"
+},
+{
+  "Editor ID": "NVDLC05WeapPowerFistCustom",
+  "Vanilla": "Power Fist (GRA)",
+  "Immersive": "Reproduction Power Fist",
+  "Descriptive": "Reproduction Power Fist"
+},
+{
+  "Editor ID": "NVDLC03WeapSaturniteFist",
+  "Vanilla": "Saturnite Fist",
+  "Immersive": "Saturnite Power Fist",
+  "Descriptive": "Saturnite Power Fist"
+},
+{
+  "Editor ID": "NVDLC03WeapSaturniteFistHeat",
+  "Vanilla": "Saturnite Fist Super-Heated",
+  "Immersive": "Saturnite Power Fist, Super-Heated",
+  "Descriptive": "Saturnite Power Fist, Super-Heated"
+},
+{
+  "Editor ID": "NVDLC05WeapPowerFistUnique",
+  "Vanilla": "Greased Lightning (GRA)",
+  "Immersive": "\"Greased Lightning\" Power Fist",
+  "Descriptive": "\"Greased Lightning\" Power Fist"
+},
+{
+  "Editor ID": "NVDLC02WeapPowerFistUnique",
+  "Vanilla": "Salt-Upon-Wounds' Power Fist",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "NVDLC03WeapGlovesScientist",
+  "Vanilla": "Scientist Glove",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "NVDLC03WeapGlovesCorrosive",
+  "Vanilla": "Corrosive Glove",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "NVDLC03WeapGlovesSterilizer",
+  "Vanilla": "Sterilizer Glove",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "NVDLC03WeapGlovesDrKleinL",
+  "Vanilla": "Dr. Klein's Glove",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "NVDLC03WeapGlovesDrMobiusL",
+  "Vanilla": "Dr. Mobius' Glove",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapSpikedKnuckles",
+  "Vanilla": "Spiked Knuckles",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapNVSpikedKnucklesUnique",
+  "Vanilla": "Love and Hate",
+  "Immersive": "\"Love and Hate\" Spiked Knuckles",
+  "Descriptive": "\"Love and Hate\" Spiked Knuckles"
+},
+{
+  "Editor ID": "NVDLC02WeapYaoGuaiGauntlet",
+  "Vanilla": "Yao Guai Gauntlet",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "NVDLC02WeapYaoGuaiGauntletUnique",
+  "Vanilla": "She's Embrace",
+  "Immersive": "\"She's Embrace\" Yao Guai Gauntlet",
+  "Descriptive": "\"She's Embrace\" Yao Guai Gauntlet"
+},
+{
+  "Editor ID": "WeapNVZapGlove",
+  "Vanilla": "Zap Glove",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapNVZapGloveUnique",
+  "Vanilla": "Paladin Toaster",
+  "Immersive": "\"Paladin Toaster\" Zap Glove",
+  "Descriptive": "\"Paladin Toaster\" Zap Glove"
+},
+{
+  "Editor ID": "NVDLC03WeapTeleporter",
+  "Vanilla": "Big Mountain Transportalponder!",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "WeapNVBinoculars",
+  "Vanilla": "Binoculars",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "NVWeapMS22Camera",
+  "Vanilla": "Codac R9000",
+  "Immersive": null,
+  "Descriptive": null
+},
+{
+  "Editor ID": "NVDLC04WeapSonicDetonator",
+  "Vanilla": "Laser Detonator",
+  "Immersive": null,
+  "Descriptive": null
+}
+]

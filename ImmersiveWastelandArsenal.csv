@@ -1,0 +1,258 @@
+Editor ID,Vanilla,Immersive,Descriptive
+WeapNV357Revolver,.357 Magnum Revolver,Antique Cowboy Revolver,.357 Magnum Cowboy Revolver
+WeapNV357RevolverUnique,Lucky,"""Lucky"" Cowboy Revolver",".357 Magnum ""Lucky"" Revolver"
+WeapNV44Revolver,.44 Magnum Revolver,Pre-War Civilian Revolver,.44 Magnum Revolver
+WeapNV44RevolverUnique,Mysterious Magnum,"""Mysterious Magnum"" Revolver",".44 Magnum ""Mysterious"" Revolver"
+NVDLC02Weap45AutoPistol,.45 Auto Pistol,Old Service Pistol,.45 Auto Pistol
+NVDLC02Weap45AutoPistolUnique,A Light Shining In Darkness,"""A Light Shining in Darkness"" Service Pistol",".45 Auto ""A Light Shining in Darkness"" Pistol"
+NVDLC05WeapNV556mmPistolCustom,5.56mm Pistol (GRA),Post-War Civilian Pistol,5.56mm Pistol
+WeapNVThatGun,That Gun,"""That Gun"" Civilian Pistol","5.56mm ""That Gun"" Pistol"
+WeapNV9mmPistol,9mm Pistol,NCR Service Pistol,9mm Pistol
+WeapNV9mmPistolUnique,Maria,"""Maria"" Service Pistol","9mm ""Maria"" Pistol"
+Weap10mmPistol,10mm Pistol,Pre-War Service Pistol,10mm Service Pistol
+WeapPreord10mmPistol,Weathered 10mm Pistol,Pre-War Officer Pistol,10mm Officer Pistol
+WeapNV127mmPistol,12.7mm Pistol,Pre-War Foreign Pistol,12.7mm Pistol
+NVDLC05WeapNV127mmPistolUnique,Li'l Devil (GRA),"""Li'l Devil"" Foreign Pistol","12.7mm ""Li'l Devil"" Pistol"
+WeapNVHuntingRevolver,Hunting Revolver,Pre-War Hunting Revolver,.45-70 Gov't Revolver
+NVDLC05WeapNVHuntingRevolverCustom,Hunting Revolver (GRA),Reproduction Hunting Revolver,.45-70 Gov't Reproduction Revolver
+WeapNVRangerSequoia,Ranger Sequoia,Ranger Sequoia Revolver,.45-70 Gov't Ranger Sequoia Revolver
+NVDLC01WeapPolicePistol,Police Pistol,Antique Police Revolver,.357 Magnum Police Revolver
+WeapNVSilenced22Pistol,Silenced .22 Pistol,Pre-War Survivalist Pistol,.22 Silenced Pistol
+WeapNVAntiMaterielRifle,Anti-Materiel Rifle,Pre-War Anti-Materiel Rifle,.50 Bolt-Action Rifle
+NVDLC05WeapNVAntiMaterielRifleCustom,Anti-Materiel Rifle (GRA),Reproduction Anti-Materiel Rifle,.50 Reproduction Bolt-Action Rifle
+WeapNVAssaultCarbine,Assault Carbine,Pre-War Assault Carbine,5mm Assault Carbine
+NVDLC05WeapNVAssaultCarbineCustom,Assault Carbine (GRA),Reproduction Assault Carbine,5mm Reproduction Assault Carbine
+NVDLC01WeapAutomaticRifle,Automatic Rifle,Old Automatic Rifle,.308 Automatic Rifle
+NVDLC05WeapNVBattleRifleCustom,Battle Rifle (GRA),Reproduction Battle Rifle,.308 Reproduction Battle Rifle
+WeapNVBattleRifleUnique,This Machine,"""This Machine"" Battle Rifle",".308 ""This Machine"" Battle Rifle"
+WeapNVBBGun,BB Gun,BB Gun,BB Gun
+WeapNVBBGunUnique,Abilene Kid LE BB Gun,"""Abilene Kid LE"" BB Gun","""Abilene Kid LE"" BB Gun"
+WeapNVBrushGun,Brush Gun,Antique Brush Gun,.45-70 Gov't Lever-Action Rifle
+NVDLC05WeapNVBrushGunUnique,Medicine Stick (GRA),"""Medicine Stick"" Brush Gun",".45-70 Gov't ""Medicine Stick"" Lever-Action Rifle"
+WeapNVCowboyRepeater,Cowboy Repeater,Antique Lever-Action Rifle,.357 Magnum Lever-Action Rifle
+WeapNVCowboyRepeaterUnique,La Longue Carabine,"""La Longue Carabine"" Lever-Action Rifle",".357 Magnum ""La Longue Carabine"" Lever-Action Rifle"
+WeapHuntingRifle,Hunting Rifle,Pre-War Hunting Rifle,.308 Bolt-Action Rifle
+NVDLC05WeapHuntingRifleUnique,Paciencia (GRA),"""Paciencia"" Hunting Rifle",".308 ""Paciencia"" Bolt-Action Rifle"
+WeapNVLightMachineGun,Light Machine Gun,Pre-War Light Machine Gun,5.56mm Light Machine Gun
+NVDLC05WeapNVLightMachineGunUnique,Bozar (GRA),"""Bozar"" Light Machine Gun","5.56mm ""Bozar"" Light Machine Gun"
+WeapNVMarksmanCarbine,Marksman Carbine,Pre-War Marksman Carbine,5.56mm Marksman Carbine
+WeapNVMarksmanCarbineUnique,All-American,"""All-American"" Marksman Carbine","5.56mm ""All-American"" Marksman Carbine"
+WeapNVServiceRifle,Service Rifle,NCR Service Rifle,5.65mm Service Rifle
+NVDLC02WeapServiceRifleUnique,Survivalist's Rifle,Pre-War Checkpoint Carbine,12.7mm Checkpoint Carbine
+WeapSniperRifle,Sniper Rifle,Pre-War Sniper Rifle,.308 Sniper Rifle
+NVDLC03WeapSniperRifleUniqueChristine,Christine's CoS Silencer Rifle,Christine's CoS Silencer Rifle,".308 ""CoS"" Silencer Rifle"
+WeapNVSniperRifleUnique,Gobi Campaign Scout Rifle,Gobi Campaign Scout Rifle,".308 ""Gobi Campaign"" Scout Rifle"
+NVTrailCarbineSteel,Trail Carbine,Pre-War Lever-Action Rifle,.44 Magnum Lever-Action Rifle
+WeapNVVarmintRifle,Varmint Rifle,Pre-War Survivalist Rifle,5.56mm Survivalist Rifle
+WeapNVVarmintRifleUnique,Ratslayer,"""Ratslayer"" Survivalist Rifle","5.56mm ""Ratslayer"" Survivalist Rifle"
+NVDLC02Weap45AutoSubmachineGun,.45 Auto SMG,Old Premium Submachine Gun,.45 Auto Submachine Gun
+WeapNV9mmSubmachineGun,9mm Submachine Gun,Old Budget Submachine Gun,9mm Submachine Gun
+WeapNV9mmSubmachineGunUnique,Vance's 9mm Submachine Gun,Vance's Budget Submachine Gun,"9mm ""Infamous"" Submachine Gun"
+Weap10mmSubmachineGun,10mm Submachine Gun,Pre-War Submachine Gun,10mm Submachine Gun
+NVDLC05Weap10mmSubmachineGunUnique,Sleepytyme (GRA),"""Sleepytyme"" Submachine Gun","10mm ""Sleepytyme"" Submachine Gun"
+WeapNV127mmSubmachineGun,12.7mm Submachine Gun,Pre-War Foreign Submachine Gun,12.7mm Submachine Gun
+NVDLC05WeapNV127mmSubmachineGunCustom,12.7mm Submachine Gun (GRA),Reproduction Foreign Submachine Gun,12.7mm Reproduction Submachine Gun
+NVDLC04WeapNailGun,H&H Tools Nail Gun,H&H Tools Nail Gun,Nail Gun
+WeapNVSilenced22SMG,Silenced .22 SMG,Pre-War Police Submachine Gun,.22 Silenced Submachine Gun
+WeapNVCaravanShotgun,Caravan Shotgun,Antique O/U Shotgun,20 Gauge O/U Shotgun
+WeapPreordCaravanShotgun,Sturdy Caravan Shotgun,Antique Engraved O/U Shotgun,20 Gauge Engraved O/U Shotgun
+WeapNVHuntingShotgun,Hunting Shotgun,Pre-War Hunting Shotgun,12 Gauge Pump-Action Shotgun
+WeapNVHuntingShotgunUnique,Dinner Bel,"""Dinner Bel"" Hunting Shotgun","12 Gauge ""Dinner Bel"" Pump-Action Shotgun"
+WeapNVLeverActionShotgun,Lever-Action shotgun,Antique Lever-Action Shotgun,20 Gauge Lever-Action Shotgun
+WeapNVRiotShotgun,Riot Shotgun,Pre-War Police Shotgun,12 Gauge Sem-Automatic Shotgun
+WeaponShotgunSawedOff,Sawed-Off Shotgun,Old Sawed-Off SxS Shotgun,12 Gauge Sawed-Off SxS Shotgun
+WeapShotgunSawedOffUnique,Big Boomer,"""Big Boomer"" Sawed-Off SxS Shotgun","12 Gauge ""Big Boomer"" Sawed-Off SxS Shotgun"
+WeapNVSingleShotgun,Single Shotgun,Antique Single Shot Shotgun,20 Gauge Single Shot Shotgun
+NVDLC03WeapCyberdogGun,K9000 Cyberdog Gun,K9000 Cyberdog Gun,.357 Magnum Cyberdog Gun
+NVDLC03WeapCyberdogGunFido,FIDO,"""FIDO"" K9000 Cyberdog Gun",".44 Magnum ""FIDO"" Cyberdog Gun"
+WeapMinigun,Minigun,Pre-War Personal Minigun,5mm Personal Minigun
+WeapNVMinigunUnique,CZ57 Avenger,"""CZ57 Avenger"" Personal Minigun","5mm ""CZ57 Avenger"" Personal Minigun"
+NVDLC04WeapSMMG,Shoulder Mounted Machine Gun,Pre-War Heavy Machine Gun,10mm Shoulder-Mounted Machine Gun
+WeapAlienBlaster,Alien Blaster,Alien Blaster,Alien Blaster
+WeapNVEuclidsCFinder,Euclid's C-Finder,Euclid's C-Finder,Euclid's C-Finder
+NVDLC04weapflaregun,Flare Gun,Flare Gun,Flare Gun
+WeapLaserPistol,Laser Pistol,Pre-War Laser Pistol,Laser Pistol
+NVDLC05WeapLaserPistolCustom,Laser Pistol (GRA),Reproduction Laser Pistol,Reproduction Laser Pistol
+NVDLC02WeapComplianceRegulator,Compliance Regulator,"""Compliance Regulator"" Laser Pistol","""Compliance Regulator"" Laser Pistol"
+WeapNVLaserPistolUnique,Pew Pew,"""Pew Pew"" Laser Pistol","""Pew Pew"" Laser Pistol"
+WeapNVPlasmaDefender,Plasma Defender,Pre-War Foreign Plasma Pistol,Foreign Plasma Pistol
+NVDLC05WeapNVPlasmaDefenderCustom,Plasma Defender (GRA),Reproduction Foreign Plasma Pistol,Reproduction Foregin Plasma Pistol
+WeapPlasmaPistol,Plasma Pistol,Pre-War Plasma Pistol,Plasma Pistol
+NVDLC05WeapPlasmaPistolCustom,Plasma Pistol (GRA),Reproduction Plasma Pistol,Reproduction Plasma Pistol
+WeapNVPulseGun,Pulse Gun,Pre-War Pulse Gun,Pulse Gun
+WeapNVRechargerPistol,Recharger Pistol,Pre-War Recharger Pistol,Recharger Pistol
+NVDLC05WeapNVRechargerPistolUnique,MF Hyperbreeder Alpha (GRA),"""MF Hyperbreeder Alpha"" Recharger Pistol","""MF Hyperbreeder Alpha"" Prototype Recharger Pistol"
+NVDLC03WeapSonicGunGabrielsBark,Sonic Emitter - Gabriel's Bark,"""Gabriel's Bark"" Sonic Emitter ","""Gabriel's Bark"" Sonic Emitter "
+NVDLC03WeapSonicGunOperaSinger,Sonic Emitter - Opera Singer,"""Opera Singer"" Sonic Emitter","""Opera Singer"" Sonic Emitter"
+NVDLC03WeapSonicGunRevelation,Sonic Emitter - Revelation,"""Revelation"" Sonic Emitter","""Revelation"" Sonic Emitter"
+NVDLC03WeapSonicGunRoboScorpion,Sonic Emitter - Robo-Scorpion,"""Robo-Scorpion"" Sonic Emitter ","""Robo-Scorpion"" Sonic Emitter "
+NVDLC03WeapSonicGunTarantula,Sonic Emitter - Tarantula,"""Tarantula"" Sonic Emitter","""Tarantula"" Sonic Emitter"
+WeapNVGaussRifle,Gauss Rifle,Pre-War Gauss Rifle,Gauss Rifle
+WeapNVGaussRifleUnique,YCS/186,"""YCS/186"" Prototype Gauss Rifle","""YCS/186"" Prototype Gauss Rifle"
+NVDLC01WeapHolorifle,Holorifle,Prototype Holo-Rifle,Holo-Rifle
+NVDLC03WeapLaer,LAER,Post-War LAER,LAER
+NVDLC03WeapLaerUniqueElijah,Elijah's Advanced LAER,Elijah's Prototype LAER,Prototype LAER
+WeapNVLaserRCW,Laser RCW,Pre-War Laser RCW,Laser RCW
+WeapLaserRifle,Laser Rifle,Pre-War Laser Rifle,Laser Rifle
+WeapLaserRifleUnique,AER14 Prototype,"""AER14"" Prototype Laser Rifle","""AER14"" Prototype Laser Rifle"
+WeapNVMultiPlasRifle,Multiplas Rifle,Pre-War Multiplas Rifle,Multiplas Rifle
+WeapPlasmaRifle,Plasma Rifle,Pre-War Plasma Rifle,Plasma Rifle
+WeapNVPlasmaRifleUnique,Q-35 Matter Modulator,"""Q-35 Matter Modulator"" Prototype Plasma Rifle","""Q-35 Matter Modulator"" Prototype Plasma Rifle"
+WeapNVRechargerRifle,Recharger Rifle,Pre-War Recharger Rifle,Recharger Rifle
+WeapNVTriBeamLaserRifle,Tri-Beam Laser Rifle,Pre-War Tri-Beam Laser Rifle,Tri-Beam Laser Rifle
+NVDLC05WeapNVTriBeamLaserRifleCustom,Tri-Beam Laser Rifle (GRA),Reproduction Tri-Beam Laser Rifle,Reproduction Tri-Beam Laser Rifle
+NVDLC04WeapArcWelder,Arc Welder,Pre-War Arc Welder,Arc Welder
+WeapFlamer,Flamer,Pre-War Flamer,Flamer
+NVDLC05WeapFlamerUnique,Cleansing Flame (GRA),"""Cleansing Flame"" Flamer","""Cleansing Flame"" Flamer"
+WeapGatlingLaser,Gatling Laser,Pre-War Gatling Laser,Gatling Laser
+NVDLC05WeapGatlingLaserUnique,Sprtel-Wood 9700 (GRA),"""Sprtel-Wood 9700"" Gatling Laser","""Sprtel-Wood 9700"" Gatling Laser"
+WeapHeavyIncinerator,Heavy Incinerator,Pre-War Heavy Incinerator,Heavy Incinerator
+WeapNVIncinerator,Incinerator,Pre-War Incinerator,Incinerator
+WeapNVPlasmaCaster,Plasma Caster,Pre-War Plasma Caster,Plasma Caster
+NVDLC05WeapNVPlasmaCasterUnique,The Smitty Special (GRA),"""The Smitty Special"" Plasma Caster","""The Smitty Special"" Plasma Caster"
+WeapTeslaCannon,Tesla Cannon,Pre-War Tesla Cannon,Shoulder-Mounted Tesla Cannon
+NVDLC03WeapTeslaCannonUniqueElijah,Elijah's Jury-Rigged Tesla Cannon,Elijah's Jury-Rigged Tesla Cannon,Jury-Rigged Shoulder-Mounted Tesla Cannon
+WeapNVTeslaCannonUnique,Tesla-Beaton Prototype,Prototype Tesla Cannon,Prototype Shoulder-Mounted Tesla Cannon
+NVDLC05Weap25mmGrenadeAPWCustom,25mm Grenade APW (GRA),Reproduction Grenade APW,25mm Reproduction Grenade APW
+WeapFatman,Fat Man,Pre-War Fat Man,Shoulder-Mounted TNW
+NVDLC05WeapFatmanCustom,Fat Man (GRA),Reproduction Fat Man,Reproduction Shoulder-Mounted TNW
+NVDLC05WeapFatmanUnique,Esther (GRA),"""Esther"" Fat Man","""Esther"" Fat Man"
+WeapNVGrenadeMachinegun,Grenade Machinegun,Pre-War Grenade Machine Gun,25mm Grenade Machine Gun
+WeapNVGrenadeMachinegunUnique,Mercy,"""Mercy"" Grenade Machine Gun","40mm ""Mercy"" Grenade Machine Gun"
+WeapNVGrenadeLauncher,Grenade Launcher,Pre-War Grenade Launcher,40mm Grenade Launcher
+WeapNVGrenadeRifle,Grenade Rifle,Pre-War Grenade Rifle,40mm Grenade Rifle
+NVDLC04WeapGrenadeRifleBLUE,Great Bear Grenade Rifle,"""Great Bear"" Grenade Rifle","40mm ""Great Bear"" Grenade Rifle"
+WeapPreordGrenadeRifle,Mercenary's Grenade Rifle,Pre-War Custom Grenade Rifle,40mm Custom Grenade Rifle
+NVDLC04WeapGrenadeRifleRED,Red Victory Grenade Rifle,"""Red Victory"" Grenade Rifle","40mm ""Red Victory"" Grenade Rifle"
+WeapNVGrenadeRifleUnique,Thump-Thump,"""Thump-Thump"" Grenade Rifle","40mm ""Thump-Thump"" Grenade Rifle"
+WeapMissileLauncher,Missile Launcher,Pre-War Missile Launcher,Shoulder-Mounted Missile Launcher
+WeapNVMissileLauncherUnique,Annabelle,"""Annabelle"" Missile Launcher","""Annabelle"" Shoulder-Mounted Missile Launcher"
+NVDLC04WeapRedGlare,Red Glare,"""Red Glare"" Rocket Launcher","""Red Glare"" Rocket Launcher"
+WeapNVDynamite,Dynamite,,
+NVDLC02WeapFireBomb,Fire Bomb,,
+NVDLC04WeapGrenadeFlashBang,Flash Bang,,
+WeapGrenadeFrag,Frag Grenade,,
+WeapNVGrenadeFragHoly,Holy Frag Grenade,,
+WeapNVGrenadeIncendiary,Incendiary Grenade,,
+WeapNVLongFuseDynamite,Long-Fuse Dynamite,,
+NVDLC05WeapGrenadeMFC,MFC Grenade (Mad Bomber) (GRA),MFC Grenade,MFC Grenade
+NVDLC05WeapGrenadeNuka,Nuka-Grenade (Mad Bomber) (GRA),Nuka Grenade,Nuka Grenade
+WeapGrenadePlasma,Plasma Grenade,,
+WeapGrenadePulse,Pulse Grenade,,
+,Tin Grenade (Mad Bomber) (GRA),Tin Grenade,Tin Grenade
+WeapMineBottlecap,Bottlecap Mine,,
+WeapNVC4PlasticExplosive,C-4 Plastic Explosive,,
+NVDLC01WeapDemoCharge,Demolition Charge,,
+WeapNVDetonator,Detonator,,
+NVDLC05WeapMineFat,Fat Mine (Mad Bomber) (GRA),Fat Mine,Fat Mine
+WeapMineFrag,Frag Mine,,
+NVDLC01weapgasbomb,Gas Bomb,,
+,MFC Cluster (Mad Bomber) (GRA),MFC Cluster,MFC Cluster
+WeapMinePlasma,Plasma Mine,,
+WeapNVMinePowderCharge,Powder Charge,,
+WeapMinePulse,Pulse Mine,,
+NVDLC04WeapSatchelCharge,Satchel Charge,,
+WeapNVTimeBomb,Time Bomb,,
+NVDLC05WeapNVTimeBombCustom,"Time Bomb, High Yield (Mad Bomber) (GRA)","Time Bomb, High Yield ","Time Bomb, High Yield "
+NVDLC04WeapBowieKnife,Bowie Knife,,
+NVDLC04WeapBowieKnifeUnique,Blood-Nap,"""Blood-Nap"" Bowie Knife","""Blood-Nap"" Bowie Knife"
+WeapNVBumperSword,Bumper Sword,,
+WeapNVLegateSword2,Blade Of The East,"""Blade Of The East"" Bumper Sword","""Blade Of The East"" Bumper Sword"
+NVDLC04WeapBladeWest,Blade Of The West,"""Blade Of The West"" Bumper Sword","""Blade Of The West"" Bumper Sword"
+WeapNVChainsaw,Chainsaw,Pre-War Chainsaw,Pre-War Chainsaw
+NVDLC05WeapNVChainsawCustom,Chainsaw (GRA),Reproduction Chainsaw,Reproduction Chainsaw
+WeapNVCleaver,Cleaver,,
+WeapNVCleaverUnique,Chopper,"""Chopper"" Cleaver","""Chopper"" Cleaver"
+WeapKnifeCombat,Combat Knife,,
+WeapNVKnifeCombatUnique,Chance's Knife,Chance's Combat Knife,Chance's Combat Knife
+NVDLC01WeapSpaceAgeKnife,Cosmic Knife,,
+NVDLC01WeapSpaceAgeKnifeClean,Cosmic Knife Clean,"Cosmic Knife, Clean","Cosmic Knife, Clean"
+NVDLC01WeapSpaceAgeKnifeHeated,Cosmic Knife Super-Heated,"Cosmic Knife, Super-Heated","Cosmic Knife, Super-Heated"
+WeapNVFireaxe,Fire Axe,,
+WeapNVFireaxeUnique,Knock-Knock,"""Knock-Knock"" Fire Axe","""Knock-Knock"" Fire Axe"
+WeapNVHatchet,Hatchet,,
+,Katana (GRA),Reproduction Katana,Reproduction Katana
+WeapKnife,Knife,,
+NVDLC01WeapKnifeSpear,Knife Spear,,
+NVDLC01WeapKnifeSpearClean,Knife Spear Clean,"Knife Spear, Clean","Knife Spear, Clean"
+WeapNVMachete,Machete,,
+WeapPreordMachete,Broad Machete,,
+WeapNVMacheteDeadSea,Liberator,"""Liberator"" Machete","""Liberator"" Machete"
+WeapNVMacheteGladius,Machete Gladius,,
+NVDLC03WeapProtonAxe,Proton Axe,,
+NVDLC03WeapProtonAxeInversal,Protonic Inversal Axe,,
+WeapRipper,Ripper,Pre-War Ripper,Pre-War Ripper
+NVDLC05WeapRipperCustom,Ripper (GRA),Reproduction Ripper,Reproduction Ripper
+WeapShishkebab,Shishkebab,,
+NVDLC05WeapShishkebabUnique,Gehenna (GRA),"""Gehenna"" Shishkebab","""Gehenna"" Shishkebab"
+WeapNVStraightRazor,Straight Razor,,
+WeapNVStraightRazorUnique,Figaro,"""Figaro"" Straight Razor","""Figaro"" Straight Razor"
+WeapSwitchBlade,Switchblade,,
+WeapThermicLance,Thermic Lance,,
+WeapNV9iron,9 Iron,,
+WeapNVDriverUnique,Nephi's Golf Driver,,
+WeapBaseballBat,Baseball Bat,Pre-War Baseball Bat,Pre-War Baseball Bat
+NVDLC05WeapBaseballBatCustom,Baseball Bat (GRA),Reproduction Baseball Bat,Reproduction Baseball Bat
+WeapCattleProd,Cattle Prod,,
+WeapNVDressCane,Dress Cane,,
+WeapLeadPipe,Lead Pipe,,
+WeapNVLeadPipeUnique,The Humble Cudgel,"""The Humble Cudgel"" Lead Pipe","""The Humble Cudgel"" Lead Pipe"
+WeapNailBoard,Nail Board,,
+WeapPoolCue,Pool Cue,,
+NVDLC04WeapFlagpole,Old Glory,"""Old Glory"" Flagpole","""Old Glory"" Flagpole"
+WeapPoliceBaton,Police Baton,,
+WeapNVRebarClub,Rebar Club,,
+NVDLC05WeapNVRebarClubUnique,Nuka-Breaker (GRA),"""Nuka-Breaker"" Rebar Club","""Nuka-Breaker"" Rebar Club"
+WeapRollingPin,Rolling Pin,,
+WeapShovel,Shovel,,
+WeapSledgehammer,Sledgehammer,,
+WeapSuperSledge,Super Sledge,,
+WeapSuperSledgeUnique,"Oh, Baby!","""Oh, Baby!"" Super Sledge","""Oh, Baby!"" Super Sledge"
+WeapTireIron,Tire Iron,,
+NVDLC02WeapWarClub,War Club,,
+NVDLC03WeapAntenna,X-2 Antenna,,
+NVDLC03WeapProtonAxeThrown,Proton Throwing Axe,,
+NVDLC03WeapProtonAxeInversalThrown,Protonic Inversal Throwing Axe,,
+WeapNVThrowingHatchet,Throwing Hatchet,,
+WeapNVThrowingKnife,Throwing Knife,,
+NVDLC01WeapThrowingKnifeSpear,Throwing Knife Spear,,
+WeapNVThrowingSpear,Throwing Spear,,
+NVDLC02WeapTomahawk,Tomahawk,,
+WeapNVBallisticFist,Ballistic Fist,,
+NVDLC05WeapNVBallisticFistUnique,Two-Step Goodbye (GRA),"""Two-Step Goodbye"" Ballistic Fist","""Two-Step Goodbye"" Ballistic Fist"
+NVDLC01WeapBearTrapFist,Bear Trap Fist,,
+WeapBladedGauntlet,Bladed Gauntlet,,
+WeapBladedGauntletUnique,Cram Opener,"""Cram Opener"" Bladed Gauntlet","""Cram Opener"" Bladed Gauntlet"
+WeapNVBoxingGloves,Boxing Gloves,,
+WeapNVBoxingGoldenGloves,Golden Gloves,,
+WeapNVBoxingTape,Boxing Tape,,
+WeapBrassKnuckles,Brass Knuckles,,
+WeapNVDisplacerGlove,Displacer Glove,,
+WeapNVDisplacerGloveUnique,Pushy,"""Pushy"" Displacer Glove","""Pushy"" Displacer Glove"
+WeapNVDogTagFist,Dog Tag Fist,,
+WeapNVDogTagFistUnique,Recompense Of The Fallen,"""Recompense Of The Fallen"" Dog Tag Fist","""Recompense Of The Fallen"" Dog Tag Fist"
+NVDLC04WeapDeathclawGauntletUnique,Fist Of Rawr,"""Fist Of Rawr"" Deathclaw Gauntlet","""Fist Of Rawr"" Deathclaw Gauntlet"
+NVDLC04WeapIndustrialHand,Industrial Hand,,
+WeapNVMantisGauntlet,Mantis Gauntlet,,
+NVDLC05WeapNVMantisGauntletUnique,Embrace Of The Mantis King! (GRA),"""Embrace Of The Mantis King!"" Mantis Gauntlet","""Embrace Of The Mantis King!"" Mantis Gauntlet"
+WeapPowerFist,Power Fist,Pre-War Power Fist,Pre-War Power Fist
+NVDLC05WeapPowerFistCustom,Power Fist (GRA),Reproduction Power Fist,Reproduction Power Fist
+NVDLC03WeapSaturniteFist,Saturnite Fist,Saturnite Power Fist,Saturnite Power Fist
+NVDLC03WeapSaturniteFistHeat,Saturnite Fist Super-Heated,"Saturnite Power Fist, Super-Heated","Saturnite Power Fist, Super-Heated"
+NVDLC05WeapPowerFistUnique,Greased Lightning (GRA),"""Greased Lightning"" Power Fist","""Greased Lightning"" Power Fist"
+NVDLC02WeapPowerFistUnique,Salt-Upon-Wounds' Power Fist,,
+NVDLC03WeapGlovesScientist,Scientist Glove,,
+NVDLC03WeapGlovesCorrosive,Corrosive Glove,,
+NVDLC03WeapGlovesSterilizer,Sterilizer Glove,,
+NVDLC03WeapGlovesDrKleinL,Dr. Klein's Glove,,
+NVDLC03WeapGlovesDrMobiusL,Dr. Mobius' Glove,,
+WeapSpikedKnuckles,Spiked Knuckles,,
+WeapNVSpikedKnucklesUnique,Love and Hate,"""Love and Hate"" Spiked Knuckles","""Love and Hate"" Spiked Knuckles"
+NVDLC02WeapYaoGuaiGauntlet,Yao Guai Gauntlet,,
+NVDLC02WeapYaoGuaiGauntletUnique,She's Embrace,"""She's Embrace"" Yao Guai Gauntlet","""She's Embrace"" Yao Guai Gauntlet"
+WeapNVZapGlove,Zap Glove,,
+WeapNVZapGloveUnique,Paladin Toaster,"""Paladin Toaster"" Zap Glove","""Paladin Toaster"" Zap Glove"
+NVDLC03WeapTeleporter,Big Mountain Transportalponder!,,
+WeapNVBinoculars,Binoculars,,
+NVWeapMS22Camera,Codac R9000,,
+NVDLC04WeapSonicDetonator,Laser Detonator,,
