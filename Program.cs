@@ -15,11 +15,10 @@ try
     geckScript.Add("ScriptName NVMOD1ImmersiveWastelandArsenalScript");
     geckScript.Add("Begin GameMode");
     geckScript.Add("\tIf GetGameRestarted");
-    geckScript.Add("\t\tPrint \"Immersive Wasteland Arsenal: Started\"");
-    geckScript.Add("\n");
+    geckScript.Add(String.Empty);
     geckScript.Add("\t\tfloat fNameDefault");
     geckScript.Add("\t\tSet fNameDefault To GetINIFloat \"Options:fNameDefault\"");
-    geckScript.Add("\n");
+    geckScript.Add(String.Empty);
 
     foreach (Weapon weapon in weapons)
     {
@@ -43,10 +42,9 @@ try
             geckScript.Add($"\t\t\t;{weapon?.Vanilla}");
 
         geckScript.Add($"\t\tEndIf");
-        geckScript.Add("\n");
+        geckScript.Add(String.Empty);
     }
-    
-    geckScript.Add("\t\tPrint \"Immersive Wasteland Arsenal: Ended\"");
+
     geckScript.Add("\tEndIf");
     geckScript.Add("End");
 
