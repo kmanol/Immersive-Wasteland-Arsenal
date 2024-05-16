@@ -1,0 +1,44 @@
+﻿float fNameDefault
+Set fNameDefault To GetINIFloat "Options:fNameDefault"
+
+array_var arObject
+array_var arJSON
+
+Let arJSON := ReadFromJSON "Data\Config\ImmersiveWastelandArsenal.json" "" 0
+If arJSON
+
+    int iIndex
+    let iIndex = 0
+    Foreach arObject <- arJSON
+
+        array_var arNestedObject
+        array_var arNestedJSON
+        Let arNestedJSON := arJSON[iIndex]
+
+        string_var sEditorID
+        ref rEditorID
+        If TestExpr Let sEditorID = arNestedJSON["EditorID"]
+            Set rEditorID To sEditorID
+        EndIf
+
+        string_var sCustomName
+        If TestExpr Let sCustomName = arNestedJSON["Custom"]
+            ;SetNameEx $sCustomName rEditorID
+        Else
+            If fNameDefault == 0
+                ;Do Nothing
+            ElseIf fNameDefault == 1
+                string_var sImmersiveName
+                If TestExpr Let sImmersiveName = arNestedJSON["Immersive"]
+                    Let sImmersiveName = ("%q" + sImmersiveName + "%q")
+                    Print "Immersive Wasteland Arsenal: SetNameEx " + sImmersiveName + " " + (sv_construct "%z" rEditorID)
+                    SetNameEx sFlavorName (sv_construct "%z" rEditorID)
+                EndIf
+            ElseIf fNameDefault == 2
+                ;TODO
+            EndIf
+        EndIf
+
+        let iIndex := iIndex + 1
+    loop
+EndIf
