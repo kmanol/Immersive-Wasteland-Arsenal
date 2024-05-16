@@ -12,43 +12,36 @@ try
     if (weapons.Count == 0) return;
 
     List<string> geckScript = new List<string>();
-    geckScript.Add("ScriptName NVMOD1ImmersiveWastelandArsenalScript");
-    geckScript.Add("Begin GameMode");
-    geckScript.Add("\tIf GetGameRestarted");
-    geckScript.Add(String.Empty);
-    geckScript.Add("\t\tfloat fNameDefault");
-    geckScript.Add("\t\tSet fNameDefault To GetINIFloat \"Options:fNameDefault\"");
+    geckScript.Add("float fNameDefault");
+    geckScript.Add("Set fNameDefault To (GetINIFloat \"Options:fNameDefault\" \"ImmersiveWastelandArsenal.ini\")");
     geckScript.Add(String.Empty);
 
     foreach (Weapon weapon in weapons)
     {
         if (weapon.EditorID == null) continue;
 
-        geckScript.Add($"\t\t;{weapon?.EditorID}");
+        geckScript.Add($";{weapon?.EditorID}");
 
-        geckScript.Add($"\t\tIf fNameDefault == 0");
-        geckScript.Add($"\t\t\t;{weapon?.Vanilla}");
+        geckScript.Add($"If fNameDefault == 0");
+        geckScript.Add($"\t;{weapon?.Vanilla}");
 
-        geckScript.Add($"\t\tElseIf fNameDefault == 1");
+        geckScript.Add($"ElseIf fNameDefault == 1");
         if (!string.IsNullOrEmpty(weapon?.Immersive))
-            geckScript.Add($"\t\t\tSetName \"{weapon.Immersive.Replace("\"","%q")}\" {weapon.EditorID}");
+            geckScript.Add($"\tSetName (\"{weapon.Immersive.Replace("\"","%q")}\") {weapon.EditorID}");
         else
-            geckScript.Add($"\t\t\t;{weapon?.Vanilla}");
+            geckScript.Add($"\t;{weapon?.Vanilla}");
 
-        geckScript.Add($"\t\tElseIf fNameDefault == 2");
+        geckScript.Add($"ElseIf fNameDefault == 2");
         if (!string.IsNullOrEmpty(weapon?.Descriptive))
-            geckScript.Add($"\t\t\tSetName \"{weapon.Descriptive.Replace("\"", "%q")}\" {weapon.EditorID}");
+            geckScript.Add($"\tSetName (\"{weapon.Descriptive.Replace("\"", "%q")}\") {weapon.EditorID}");
         else
-            geckScript.Add($"\t\t\t;{weapon?.Vanilla}");
+            geckScript.Add($"\t;{weapon?.Vanilla}");
 
-        geckScript.Add($"\t\tEndIf");
+        geckScript.Add($"EndIf");
         geckScript.Add(String.Empty);
     }
 
-    geckScript.Add("\tEndIf");
-    geckScript.Add("End");
-
-    filePath = Path.Combine(Directory.GetCurrentDirectory(), "ImmersiveWastelandArsenal.txt");
+    filePath = Path.Combine(Directory.GetCurrentDirectory(), "gr_ImmersiveWastelandArsenal.txt");
     File.WriteAllText(filePath, String.Join('\n', geckScript));
 }
 catch (IOException e)
