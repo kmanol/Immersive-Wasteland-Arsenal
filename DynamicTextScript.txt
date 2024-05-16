@@ -1,5 +1,5 @@
 ﻿float fNameDefault
-Set fNameDefault To GetINIFloat "Options:fNameDefault"
+Set fNameDefault To (GetINIFloat "Options:fNameDefault" "ImmersiveWastelandArsenal.ini")
 
 array_var arObject
 array_var arJSON
@@ -23,7 +23,7 @@ If arJSON
 
         string_var sCustomName
         If TestExpr Let sCustomName = arNestedJSON["Custom"]
-            ;SetNameEx $sCustomName rEditorID
+            ;TODO
         Else
             If fNameDefault == 0
                 ;Do Nothing
@@ -31,8 +31,8 @@ If arJSON
                 string_var sImmersiveName
                 If TestExpr Let sImmersiveName = arNestedJSON["Immersive"]
                     Let sImmersiveName = ("%q" + sImmersiveName + "%q")
-                    Print "Immersive Wasteland Arsenal: SetNameEx " + sImmersiveName + " " + (sv_construct "%z" rEditorID)
-                    SetNameEx sFlavorName (sv_construct "%z" rEditorID)
+                    Print "Immersive Wasteland Arsenal: SetName " + sImmersiveName + " " + (sv_construct "%z" rEditorID)
+                    SetName sImmersiveName (rEditorID)
                 EndIf
             ElseIf fNameDefault == 2
                 ;TODO
