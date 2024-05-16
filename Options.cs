@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ImmersiveWastelandArsenal
 {
-    [Flags] public enum OutputFlags { GECK = 1, TextStatic = 2, TextDynamic = 3 }
+    [Flags] public enum OutputFlags { GECK = 0, TextStatic = 1, TextDynamic = 2 }
 
     public class Options
     {

@@ -1,4 +1,6 @@
-﻿float fNameDefault
+﻿Print "IWA: Start"
+
+float fNameDefault
 Set fNameDefault To (GetINIFloat "Options:fNameDefault" "ImmersiveWastelandArsenal.ini")
 
 array_var arObject
@@ -31,7 +33,7 @@ If arJSON
                 string_var sImmersiveName
                 If TestExpr Let sImmersiveName = arNestedJSON["Immersive"]
                     Let sImmersiveName = ("%q" + sImmersiveName + "%q")
-                    Print "Immersive Wasteland Arsenal: SetName " + sImmersiveName + " " + (sv_construct "%z" rEditorID)
+                    Print "IWA: SetName " + sImmersiveName + " " + (sv_construct "%z" rEditorID)
                     SetName sImmersiveName (rEditorID)
                 EndIf
             ElseIf fNameDefault == 2
@@ -42,3 +44,5 @@ If arJSON
         let iIndex := iIndex + 1
     loop
 EndIf
+
+Print "IWA: End"

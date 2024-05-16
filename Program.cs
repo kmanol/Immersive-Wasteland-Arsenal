@@ -1,6 +1,14 @@
 ﻿using ImmersiveWastelandArsenal;
 
-Options options = new(OutputFlags.TextDynamic);
+Console.WriteLine("Enter Output Type:");
+Console.WriteLine("0: GECK Script (esp)");
+Console.WriteLine("1: Static Text Script (espless - scriptrunner)");
+Console.WriteLine("2: Dynamic Text Script (espless - scriptrunner)");
+
+string? sUserInput = Console.ReadLine();
+Int32.TryParse(sUserInput, out int iUserInput);
+
+Options options = new((OutputFlags)iUserInput);
 
 string scriptContents;
 string scriptName;
@@ -9,7 +17,7 @@ try
 {
     switch (options.Output) {
         case OutputFlags.GECK:
-            scriptName = "ImmersiveWastelandArsenal.txt";
+            scriptName = "NVMOD1ImmersiveWastelandArsenalScript.txt";
             scriptContents = ScriptGenerator.GenerateGECKScript();
             break;
         case OutputFlags.TextStatic:
