@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="DynamicTextScript.txt">
+    <None Update="Script\DynamicTextScript.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="Config\ImmersiveWastelandArsenal.ini">

@@ -50,7 +50,10 @@ namespace ImmersiveWastelandArsenal.Generator
             geckScript.Add("\tEndIf");
             geckScript.Add("End");
 
-            return string.Join('\n', geckScript);
+            string scriptFilePath = Path.Combine(Directory.GetCurrentDirectory(), $"NVMOD1{Globals.ModName}Script.txt");
+            File.WriteAllText(scriptFilePath, string.Join('\n', geckScript));
+
+            return scriptFilePath;
         }
 
         public static string GenerateStaticTextScript()
@@ -92,14 +95,21 @@ namespace ImmersiveWastelandArsenal.Generator
                 textScript.Add(string.Empty);
             }
 
-            return string.Join('\n', textScript);
+            string scriptFilePath = Path.Combine(Directory.GetCurrentDirectory(), $"gr_{Globals.ModName}.txt");
+            File.WriteAllText(scriptFilePath, string.Join('\n', textScript));
+
+            return scriptFilePath;
         }
 
         public static string GenerateDynamicTextScript()
         {
-            string filePath = Path.Combine(Directory.GetCurrentDirectory(), "DynamicTextScript.txt");
+            string filePath = Path.Combine(Directory.GetCurrentDirectory(), "Script", "DynamicTextScript.txt");
             string textScript = File.ReadAllText(filePath);
-            return textScript;
+
+            string scriptFilePath = Path.Combine(Directory.GetCurrentDirectory(), $"gr_{Globals.ModName}.txt");
+            File.WriteAllText(scriptFilePath, textScript);
+
+            return scriptFilePath;
         }
     }
 }

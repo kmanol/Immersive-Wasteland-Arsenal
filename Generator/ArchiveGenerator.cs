@@ -41,6 +41,7 @@ namespace ImmersiveWastelandArsenal.Generator
             if (File.Exists(zipFilePath)) File.Delete(zipFilePath);
             ZipFile.CreateFromDirectory(rootFolderPath, zipFilePath, CompressionLevel.Fastest, includeBaseDirectory: false);
 
+            File.Delete(scriptSourceFilePath);
             Directory.Delete(rootFolderPath, recursive: true);
         }
     }
