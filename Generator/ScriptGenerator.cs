@@ -1,12 +1,12 @@
 ﻿using Newtonsoft.Json;
 
-namespace ImmersiveWastelandArsenal
+namespace ImmersiveWastelandArsenal.Generator
 {
     public class ScriptGenerator
     {
         public static string GenerateGECKScript()
         {
-            string filePath = Path.Combine(Directory.GetCurrentDirectory(), "ImmersiveWastelandArsenal.json");
+            string filePath = Path.Combine(Directory.GetCurrentDirectory(), "Config", $"{Globals.ModName}.json");
             string jsonString = File.ReadAllText(filePath);
             if (string.IsNullOrEmpty(jsonString)) return string.Empty;
 
@@ -14,13 +14,13 @@ namespace ImmersiveWastelandArsenal
             if (weapons.Count == 0) return string.Empty;
 
             List<string> geckScript = new List<string>();
-            geckScript.Add("ScriptName NVMOD1ImmersiveWastelandArsenalScript");
+            geckScript.Add($"ScriptName NVMOD1{Globals.ModName}Script");
             geckScript.Add("Begin GameMode");
             geckScript.Add("\tIf GetGameRestarted");
-            geckScript.Add(String.Empty);
+            geckScript.Add(string.Empty);
             geckScript.Add("\t\tfloat fNameDefault");
             geckScript.Add("\t\tSet fNameDefault To GetINIFloat \"Options:fNameDefault\"");
-            geckScript.Add(String.Empty);
+            geckScript.Add(string.Empty);
 
             foreach (Weapon weapon in weapons)
             {
@@ -44,18 +44,18 @@ namespace ImmersiveWastelandArsenal
                     geckScript.Add($"\t\t\t;{weapon?.Vanilla}");
 
                 geckScript.Add($"\t\tEndIf");
-                geckScript.Add(String.Empty);
+                geckScript.Add(string.Empty);
             }
 
             geckScript.Add("\tEndIf");
             geckScript.Add("End");
 
-            return String.Join('\n', geckScript);
+            return string.Join('\n', geckScript);
         }
 
         public static string GenerateStaticTextScript()
         {
-            string filePath = Path.Combine(Directory.GetCurrentDirectory(), "ImmersiveWastelandArsenal.json");
+            string filePath = Path.Combine(Directory.GetCurrentDirectory(), "Config", $"{Globals.ModName}.json");
             string jsonString = File.ReadAllText(filePath);
             if (string.IsNullOrEmpty(jsonString)) return string.Empty;
 
@@ -64,8 +64,8 @@ namespace ImmersiveWastelandArsenal
 
             List<string> textScript = new List<string>();
             textScript.Add("float fNameDefault");
-            textScript.Add("Set fNameDefault To (GetINIFloat \"Options:fNameDefault\" \"ImmersiveWastelandArsenal.ini\")");
-            textScript.Add(String.Empty);
+            textScript.Add($"Set fNameDefault To (GetINIFloat \"Options:fNameDefault\" \"{Globals.ModName}.ini\")");
+            textScript.Add(string.Empty);
 
             foreach (Weapon weapon in weapons)
             {
@@ -89,10 +89,10 @@ namespace ImmersiveWastelandArsenal
                     textScript.Add($"\t;{weapon?.Vanilla}");
 
                 textScript.Add($"EndIf");
-                textScript.Add(String.Empty);
+                textScript.Add(string.Empty);
             }
 
-            return String.Join('\n', textScript);
+            return string.Join('\n', textScript);
         }
 
         public static string GenerateDynamicTextScript()

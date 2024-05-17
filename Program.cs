@@ -1,4 +1,5 @@
 ﻿using ImmersiveWastelandArsenal;
+using ImmersiveWastelandArsenal.Generator;
 
 Console.WriteLine("Enter Output Type:");
 Console.WriteLine("0: GECK Script (esp)");
@@ -10,31 +11,39 @@ Int32.TryParse(sUserInput, out int iUserInput);
 
 Options options = new((OutputFlags)iUserInput);
 
-string scriptContents;
 string scriptName;
+string scriptContents;
 
 try
 {
     switch (options.Output) {
         case OutputFlags.GECK:
-            scriptName = "NVMOD1ImmersiveWastelandArsenalScript.txt";
+            scriptName = $"NVMOD1{Globals.ModName}Script.txt";
             scriptContents = ScriptGenerator.GenerateGECKScript();
             break;
         case OutputFlags.TextStatic:
-            scriptName = "gr_ImmersiveWastelandArsenal.txt";
+            scriptName = $"gr_{Globals.ModName}.txt";
             scriptContents = ScriptGenerator.GenerateStaticTextScript();
             break;
         case OutputFlags.TextDynamic:
         default:
-            scriptName = "gr_ImmersiveWastelandArsenal.txt";
+            scriptName = $"gr_{Globals.ModName}.txt";
             scriptContents = ScriptGenerator.GenerateDynamicTextScript();
             break;
     }
 
-    string filePath = Path.Combine(Directory.GetCurrentDirectory(), scriptName);
-    File.WriteAllText(filePath, String.Join('\n', scriptContents));
+    string scriptFilePath = Path.Combine(Directory.GetCurrentDirectory(), scriptName);
+    File.WriteAllText(scriptFilePath, String.Join('\n', scriptContents));
+
+    switch (options.Output)
+    {
+        case OutputFlags.TextStatic:
+        case OutputFlags.TextDynamic:
+            ArchiveGenerator.GenerateArchive(scriptFilePath);
+            break;
+    }
 }
-catch (IOException e)
+catch (Exception e)
 {
     Console.WriteLine($"Error: {e.Message}");
 }
