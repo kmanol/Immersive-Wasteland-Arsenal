@@ -40,6 +40,7 @@ try
         case OutputFlags.TextStatic:
         case OutputFlags.TextDynamic:
             ArchiveGenerator.GenerateArchive(scriptFilePath);
+            File.Delete(scriptFilePath);
             break;
     }
 }
